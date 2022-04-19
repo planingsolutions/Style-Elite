@@ -16614,6 +16614,14 @@ a.pswp__share--download:hover {
 	You can play with it here - http://codepen.io/dimsemenov/pen/yyBWoR
 
  */
+ .direction-ltr {
+  direction: ltr; 
+}
+
+.direction-rtl {
+  direction: rtl; 
+}
+
 .pswp__preloader {
   width: 44px;
   height: 44px;
